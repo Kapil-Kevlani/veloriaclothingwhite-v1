@@ -1,0 +1,26 @@
+{
+  "name": "veloriaclothingwhite",
+  "version": "1.0.0",
+  "description": "A clean, premium, and mobile-first fashion storefront for Velorida Clothing. The UI is predominantly white with deep charcoal accents, sharp typography, and generous spacing that highlights the clothes over the interface.",
+  "main": "checkout.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "next": "^14.2.33",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "24.9.2",
+    "@types/react": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}

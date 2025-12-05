@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1400" viewBox="0 0 2400 1400" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="50%" stop-color="#1a1a1a"/>
+      <stop offset="100%" stop-color="#0a0a23"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#d4af37" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#d4af37" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <circle cx="50%" cy="40%" r="55%" fill="url(#glow)"/>
+  <text x="50%" y="85%" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-size="56" fill="#ffffff" opacity="0.15" letter-spacing="8">VALORIA</text>
+</svg>
+
